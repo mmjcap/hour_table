@@ -1,2 +1,2 @@
-# hour_table
-an hour table for school in C++
+# time_table
+an time table for school in C++
